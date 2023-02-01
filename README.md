@@ -1,4 +1,3 @@
-# README.md
 <h1 align="center">Hola 👋, me llamo Hamid</h1>
 <h3 align="center">Soy un estudiante de Ingeniería Mecatrónica</h3>
 
